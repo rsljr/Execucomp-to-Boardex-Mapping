@@ -3,7 +3,9 @@
 
 A mapping to link information about executives across Execucomp, Boardex, and SEC-Edgar.
 
-Execucomp provides information about executive compensation. BoardEx includes information about compensation, directorships, experience, and education.
+
+
+[Execucomp](https://www.library.hbs.edu/find/databases/execucomp) provides information about executive compensation. [BoardEx](https://www.library.hbs.edu/find/databases/boardex) includes information about compensation, directorships, experience, and education.
 
 # Data
 
