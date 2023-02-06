@@ -1,5 +1,5 @@
 # Description 
----
+-
 A mapping to link information about executives across Execucomp, Boardex, and SEC-Edgar.
 
 Execucomp provides information about executive compensation. BoardEx includes information about compensation, directorships, experience, and education.
@@ -9,7 +9,7 @@ Execucomp provides information about executive compensation. BoardEx includes in
 
 The data connecting Execucomp to BoardEx is in csv form with the following structure:
 
-==(Execid, Directorid, executive_cik)==
+<mark>(Execid, Directorid, executive_cik)</mark>
 
 where
 
