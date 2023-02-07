@@ -7,7 +7,7 @@ A mapping to link information about executives across Execucomp, Boardex, and SE
 
 [Execucomp](https://www.library.hbs.edu/find/databases/execucomp) provides information about executive compensation. [BoardEx](https://www.library.hbs.edu/find/databases/boardex) includes information about compensation, directorships, experience, and education.
 
-There are 21,194 executives with ids linked. ExecCIK is an working in progress, with only 2,458 executives matched at the moment.
+There are 21,194 executives with ids linked. ExecCIK is a work in progress, with only 2,458 executives matched at the moment.
 
 # Data
 
