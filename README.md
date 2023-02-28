@@ -26,3 +26,5 @@ where
 
 
 Stay tuned (i.e., watch or star this repo.) for updates.
+
+[![HitCount](https://hits.dwyl.com/rsljr/Execucomp-to-Boardex-Mappin.svg?style=flat&show=unique)](http://hits.dwyl.com/rsljr/Execucomp-to-Boardex-Mappin)
